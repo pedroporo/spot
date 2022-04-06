@@ -1,12 +1,12 @@
 var firebaseConfig = {
-  apiKey: "AIzaSyCT-nWZttxI11ea-H9a2SW3iNKMP9pOFOE",
-  authDomain: "place-9c500.firebaseapp.com",
-  databaseURL: "https://place-9c500.firebaseio.com",
-  projectId: "place-9c500",
-  storageBucket: "place-9c500.appspot.com",
-  messagingSenderId: "863156558290",
-  appId: "1:863156558290:web:ca4701a7143bb8c2fb500b",
-  measurementId: "G-5G17632L0D"
+  apiKey: "AIzaSyD4r0jad7ygncgsC-8dmGltDwQwkt9gUwg",
+  authDomain: "placetest-f71e3.firebaseapp.com",
+  databaseURL: "https://placetest-f71e3-default-rtdb.europe-west1.firebasedatabase.app",
+  projectId: "placetest-f71e3",
+  storageBucket: "placetest-f71e3.appspot.com",
+  messagingSenderId: "768069945327",
+  appId: "1:768069945327:web:995227b8029f96b26ed81a",
+  measurementId: "G-L4TETJTKT7"
 };
 firebase.initializeApp(firebaseConfig);
 
