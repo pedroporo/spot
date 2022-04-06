@@ -1,7 +1,7 @@
 var firebaseConfig = {
   apiKey: "AIzaSyD4r0jad7ygncgsC-8dmGltDwQwkt9gUwg",
   authDomain: "placetest-f71e3.firebaseapp.com",
-  databaseURL: "https://placetest-f71e3-default-rtdb.europe-west1.firebasedatabase.app",
+  databaseURL: "https://placetest-f71e3-default-rtdb.europe-west1.firebasedatabase.app/",
   projectId: "placetest-f71e3",
   storageBucket: "placetest-f71e3.appspot.com",
   messagingSenderId: "768069945327",
